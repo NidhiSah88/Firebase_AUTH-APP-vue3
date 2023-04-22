@@ -5,6 +5,7 @@ import { initializeApp } from "firebase/app";
 
 import { getAuth } from 'firebase/auth';
 
+// https://console.firebase.google.com/project/fir-auth-vue3-56fcc/authentication/users
 
 // import { getStorage } from "firebase/storage";
 // import { getFirestore } from "firebase/firestore";
